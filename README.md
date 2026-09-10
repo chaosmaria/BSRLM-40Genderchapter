@@ -29,7 +29,7 @@ The chapter reviews gender-related research disseminated through BSRLM between 1
 
 ## Review lists
 
-`reviewlist/` holds the wider mathematics education corpus: the 568 publications retrieved from Scopus in January 2026 and retained after screening, which were used for the comparison topic modelling. Bibliographic details were completed from Crossref and OpenAlex by DOI and accepted only where the retrieved title matched the Scopus record. Twenty-two records carry no DOI in the export and are given with author, year and title only. Titles appear as published, so capitalisation is not uniform.
+`reviewlist/` holds the wider mathematics education corpus: the 568 publications retrieved from Scopus in January 2026 and retained after screening, which were used for the comparison topic modelling. Bibliographic details were completed from Crossref and OpenAlex by DOI and accepted only where the retrieved title matched the Scopus record. Records without a usable DOI were completed from Scopus directly, so every entry carries its source publication. Titles appear as published, so capitalisation is not uniform.
 
 The BSRLM sources reviewed in the chapter (38 proceedings papers and 31 programme records) are listed in the chapter's own reference lists.
 
