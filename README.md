@@ -16,7 +16,7 @@ The chapter reviews gender-related research disseminated through BSRLM between 1
 │   ├── Appendix_2_Selected_Papers.pdf        Table 2A. The 38 reviewed proceedings papers, with themes, key findings and methodology
 │   └── Appendix_3_Topic_Modelling.pdf        Tables 3A and 3B. Topic modelling results for the BSRLM corpus (N = 69) and the wider mathematics education corpus (N = 568)
 └── reviewlist/
-    (forthcoming: the reviewed BSRLM sources and the wider mathematics education corpus)
+    └── Wider_Mathematics_Education_Corpus_568.pdf   The 568 Scopus records behind the comparison topic modelling, in APA reference format
 ```
 
 ## Appendices
@@ -29,7 +29,9 @@ The chapter reviews gender-related research disseminated through BSRLM between 1
 
 ## Review lists
 
-The `reviewlist/` directory will hold the full lists of sources behind the review, including the wider mathematics education corpus retrieved from Scopus. These are still being prepared.
+`reviewlist/` holds the wider mathematics education corpus: the 568 publications retrieved from Scopus in January 2026 and retained after screening, which were used for the comparison topic modelling. Bibliographic details were completed from Crossref and OpenAlex by DOI and accepted only where the retrieved title matched the Scopus record. Twenty-two records carry no DOI in the export and are given with author, year and title only. Titles appear as published, so capitalisation is not uniform.
+
+The BSRLM sources reviewed in the chapter (38 proceedings papers and 31 programme records) are listed in the chapter's own reference lists.
 
 ## Citing these materials
 
