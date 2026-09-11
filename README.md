@@ -2,7 +2,7 @@
 
 Supplementary materials for:
 
-> Pampaka, M., Zhang, C., Black, L., Choudry, S., & Harris, D. (upcoming). From gender gaps to gendered participation: Four decades of research in mathematics education (1985-2025). In A. Coles, V. Hatisaru, J. Ingram, E. Nardi, H. Povey, & T. Rowland (Eds.), *Research in Mathematics Education in the UK: Findings from the First Forty Years of the British Society for Research into Learning Mathematics*.
+> Pampaka, M., Zhang, C., Black, L., Choudry, S., & Harris, D. (upcoming). From gender gaps to gendered identities: Four decades of gender research in BSRLM and the wider mathematics education literature (1985–2025). In A. Coles, V. Hatisaru, J. Ingram, E. Nardi, H. Povey, & T. Rowland (Eds.), *Research in Mathematics Education in the UK: Findings from the First Forty Years of the British Society for Research into Learning Mathematics*.
 
 The chapter reviews gender-related research disseminated through BSRLM between 1985 and 2025, combining thematic analysis of proceedings papers, a citation circulation analysis, and structural topic modelling of the BSRLM corpus alongside a wider mathematics education corpus. This repository holds the appendices referenced in the chapter, together with the lists of reviewed sources.
 
