@@ -12,12 +12,15 @@ The chapter reviews gender-related research disseminated through BSRLM between 1
 .
 ├── README.md
 ├── appendix/
-│   ├── Appendix_1_Coding_Information.pdf     Table 1A. Coding variables, categories and examples
-│   ├── Appendix_2_Selected_Papers.pdf        Table 2A. The 38 reviewed proceedings papers, with themes, key findings and methodology
-│   └── Appendix_3_Topic_Modelling.pdf        Tables 3A and 3B. Topic modelling results for the BSRLM corpus (N = 69) and the wider mathematics education corpus (N = 568)
+│   ├── Appendix_1_Coding_Information.pdf / .docx    Table 1A. Coding variables, categories and examples
+│   ├── Appendix_2_Selected_Papers.pdf / .docx       Table 2A. The 38 reviewed proceedings papers, with themes, key findings and methodology
+│   └── Appendix_3_Topic_Modelling.pdf / .docx       Tables 3A and 3B. Topic modelling results for the BSRLM corpus (N = 69) and the wider mathematics education corpus (N = 568)
 └── reviewlist/
-    └── Wider_Mathematics_Education_Corpus_568.pdf   The 568 Scopus records behind the comparison topic modelling, in APA reference format
+    └── Wider_Mathematics_Education_Corpus_568.pdf / .docx   The 568 Scopus records behind the comparison topic modelling, in APA reference format
 ```
+
+Every item is published as a PDF for reading and a .docx for editing. The two are
+kept in step: edit the .docx, export the PDF from it, and commit both.
 
 ## Appendices
 
